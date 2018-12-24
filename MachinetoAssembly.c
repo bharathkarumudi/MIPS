@@ -3,7 +3,7 @@
 This program takes the machine code as input and converts to its
 corresponding assembly instruction.
 
-Written by Bharath Karumudi for Lab 4 assignment
+Authored by: Bharath Karumudi
 
  */
 
