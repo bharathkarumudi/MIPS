@@ -1,7 +1,6 @@
 #------------------------------------#
-# Assignment: Lab 3                  #
-# Submitted by: Bharath Karumudi     #
-# Quicksort in MIPS                  #
+# Authored by: Bharath Karumudi     #
+# Purpose Quicksort in MIPS         #
 #------------------------------------#
 
 .data # Defines variable section of an assembly routine.
